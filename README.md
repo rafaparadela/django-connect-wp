@@ -7,4 +7,4 @@ django-connect.wp
 Use
 ------------
 
-* [Tutorial](http://rafaparadela.tumblr.com/post/61590332253/mostrar-el-ultimo-articulo-de-tu-blog-en-tu-web-django)
+* [Tutorial](http://tmblr.co/Zr_6zxvN4UDT)
